@@ -1,0 +1,10 @@
+C:\Users\ipd\source\repos\Quize2\Quize2\bin\Debug\Quize2.exe.config
+C:\Users\ipd\source\repos\Quize2\Quize2\bin\Debug\Quize2.exe
+C:\Users\ipd\source\repos\Quize2\Quize2\bin\Debug\Quize2.pdb
+C:\Users\ipd\source\repos\Quize2\Quize2\obj\Debug\Quize2.csprojAssemblyReference.cache
+C:\Users\ipd\source\repos\Quize2\Quize2\obj\Debug\Quize2.Form1.resources
+C:\Users\ipd\source\repos\Quize2\Quize2\obj\Debug\Quize2.Properties.Resources.resources
+C:\Users\ipd\source\repos\Quize2\Quize2\obj\Debug\Quize2.csproj.GenerateResource.cache
+C:\Users\ipd\source\repos\Quize2\Quize2\obj\Debug\Quize2.csproj.CoreCompileInputs.cache
+C:\Users\ipd\source\repos\Quize2\Quize2\obj\Debug\Quize2.exe
+C:\Users\ipd\source\repos\Quize2\Quize2\obj\Debug\Quize2.pdb
